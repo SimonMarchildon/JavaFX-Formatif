@@ -1,0 +1,8 @@
+/target/
+/bin
+*.class
+
+# configuration lacale
+.settings
+.classpath
+.project
