@@ -17,7 +17,7 @@ public class App extends Application {
     {
 
        
-        var label = new Label("This will unleash horny thicc milf robots!");
+        var label = new Label("This will unleash GODZILLA!");
         var text = new TextField(""); 
         var button = new Button("DO NOT PUSH."); 
       
